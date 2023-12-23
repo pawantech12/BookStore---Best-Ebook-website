@@ -1,16 +1,16 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/pawantech12/dentelo-website)
-  ![GitHub stars](https://img.shields.io/github/stars/pawantech12/dentelo-website?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/pawantech12/dentelo-website?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/pawantech12/BookStore---Best-Ebook-website)
+  ![GitHub stars](https://img.shields.io/github/stars/pawantech12/BookStore---Best-Ebook-website?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/pawantech12/BookStore---Best-Ebook-website?style=social)
 
   <br />
 
-  <h2 align="center">Responsive Dentist Website</h2>
+  <h2 align="center">Responsive BookStore Website</h2>
 
-  Dentelo is fully responsive Dentist website made using HTML, CSS, and JavaScript.
+  Bookoi is fully responsive Book Store ebsite made using HTML, CSS, and JavaScript.
 
-  <a href="https://pawantech12.github.io/dentelo-website/"><strong>➥ Live Demo</strong></a>
+  <a href="https://pawantech12.github.io/BookStore---Best-Ebook-website/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -66,7 +66,7 @@ sudo git clone https://github.com/pawantech12/dentelo-website.git
 Windows:
 
 ```bash
-git clone https://github.com/pawantech12/dentelo-website.git
+git clone https://github.com/pawantech12/BookStore---Best-Ebook-website.git
 ```
 
 ### Contact
