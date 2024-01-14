@@ -16,10 +16,6 @@
 
 <br />
 
-### Desktop Preview
-
-https://github.com/pawantech12/dentelo-website/assets/118673866/48a30ffe-ece3-4d31-a8bc-342c03c29548
-
 
 ### Prerequisites
 
