@@ -8,7 +8,7 @@
 
   <h2 align="center">Responsive BookStore Website</h2>
 
-  Bookoi is fully responsive Book Store ebsite made using HTML, CSS, and JavaScript.
+  Bookoi is fully responsive Book Store website made using HTML, CSS, and JavaScript.
 
   <a href="https://pawantech12.github.io/BookStore---Best-Ebook-website/"><strong>➥ Live Demo</strong></a>
 
@@ -38,10 +38,11 @@ Fontawesome Icon :
 * Responsive Navigation Bar with Hamburger Menu
 * Hero Section
 * Service Section
-* About Us Section
-* Best Dentist section
-* Appointment section
-* Blog Section
+* Book filter Section
+* Book Detail section
+* Login page
+* contact Section
+* Signup page
 * Footer Section
 
 ### Font Family
@@ -55,12 +56,12 @@ Fontawesome Icon :
 
 ### Run Locally
 
-To run **Dentelo** locally, run this command on your git bash:
+To run **Bookoe** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/pawantech12/dentelo-website.git
+sudo git clone https://github.com/pawantech12/BookStore---Best-Ebook-website.git
 ```
 
 Windows:
